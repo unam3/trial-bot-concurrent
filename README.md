@@ -4,6 +4,12 @@ Concurrent wrapper around [Telegram](https://github.com/unam3/trial-bot) and [VK
 
 ## Installation and usage
 
+Clone this repository:
+
+```
+git clone --recurse-submodules https://github.com/unam3/trial-bot-concurrent.git
+```
+
 To use bot one need to install [stack](https://docs.haskellstack.org/en/stable/README/#how-to-install) and then run in terminal from project directory:
 
 ```
