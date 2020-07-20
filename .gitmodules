@@ -1,0 +1,6 @@
+[submodule "deps/trial-bot"]
+	path = deps/trial-bot
+	url = https://github.com/unam3/trial-bot.git
+[submodule "deps/trial-bot-vk"]
+	path = deps/trial-bot-vk
+	url = https://github.com/unam3/trial-bot-vk.git
