@@ -7,6 +7,12 @@ Concurrent wrapper around [Telegram](https://github.com/unam3/trial-bot) and [VK
 Clone this repository:
 
 ```
+git clone https://github.com/unam3/trial-bot-concurrent.git
+cd trial-bot-concurrent/
+git submodule update --init --depth 1
+```
+or
+```
 git clone --recurse-submodules https://github.com/unam3/trial-bot-concurrent.git
 ```
 
